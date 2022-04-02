@@ -1,2 +1,2 @@
 # alx-low_level_programming
-Intoducing C
+Programming Fundamentals in C
