@@ -34,15 +34,11 @@
 
 	>operator is one of the following:
 
-	+: addition
-
-	-: subtraction
-
-	*: multiplication
-
-	/: division
-
-	%: modulo
+		+: addition
+		-: subtraction
+		*: multiplication
+		/: division
+		%: modulo
 
 
 	>The program prints the result of the operation, followed by a new line
