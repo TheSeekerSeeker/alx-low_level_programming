@@ -7,6 +7,7 @@
  * @index: emplacement of the node to delet
  * Return: pointr to head of list
  */
+
 int delete_nodeint_at_index(listint_t **head, unsigned int index)
 {
 	unsigned int i;
